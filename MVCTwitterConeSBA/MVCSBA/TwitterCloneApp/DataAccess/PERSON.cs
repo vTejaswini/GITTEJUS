@@ -24,6 +24,10 @@ namespace DataAccess
         [Required]
         [StringLength(50)]
         public string password { get; set; }
+        
+         [Required]
+        [StringLength(50)]
+        public string shortname { get; set; }
 
         [Required]
         [StringLength(30)]
