@@ -1,0 +1,12 @@
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\Wcfsba.dll.config
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\Wcfsba.dll
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\Wcfsba.pdb
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\EntityFramework.dll
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\EntityFramework.SqlServer.dll
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\EntityFramework.xml
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\bin\EntityFramework.SqlServer.xml
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\obj\Debug\Wcfsba.csprojAssemblyReference.cache
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\obj\Debug\Wcfsba.csproj.CoreCompileInputs.cache
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\obj\Debug\Wcfsba.csproj.CopyComplete
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\obj\Debug\Wcfsba.dll
+C:\Users\rreddy213\source\repos\Wcfsba\Wcfsba\obj\Debug\Wcfsba.pdb
