@@ -17,5 +17,6 @@ namespace Wcfsba
         public int SUPLNO { get; set; }
         public string SUPLNAME { get; set; }
         public string SUPLADDR { get; set; }
+        public int Suplno { get; set; }
     }
 }
